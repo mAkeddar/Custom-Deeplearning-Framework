@@ -6,7 +6,7 @@ aims to create a mini deep learning framework and
 use it for a simple classification task with randomly
 generated data.
 
-#Testing the scripts
+# Testing the scripts
 The provided script is run without argument. Plots
 and execution time can be enabled by changing two
 booleans at the beginning of the script. One will
